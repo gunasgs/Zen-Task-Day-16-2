@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+form{
+
+
+width: 70vh;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.highlight{
+    color:red;
+    font-size: 20px;
+}
+.star{
+    height: 30px;
+    width:30px;
+}
+.ft{
+    font-size: 12px;
+}
